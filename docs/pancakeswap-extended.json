@@ -1,17 +1,33 @@
 {
-  "name": "PancakeSwap Extended",
+  "name": "RobustSwap Extended",
   "timestamp": "2021-10-26T16:24:48.114Z",
   "version": {
     "major": 2,
     "minor": 16,
     "patch": 33
   },
-  "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82/logo.png",
+  "logoURI": "https://tokens.robustswap.com/images/default.png",
   "keywords": [
-    "pancakeswap",
+    "robustswap",
     "extended"
   ],
   "tokens": [
+    {
+      "name": "RobustSwap Token",
+      "symbol": "RBS",
+      "address": "0x95336aC5f7E840e7716781313e1607F7C9D6BE25",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://tokens.robustswap.com/images/0x95336aC5f7E840e7716781313e1607F7C9D6BE25.png"
+    },
+    {
+      "name": "Robust Token",
+      "symbol": "RBT",
+      "address": "0x891E4554227385c5c740F9B483E935E3CbC29F01",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://tokens.robustswap.com/images/0x891E4554227385c5c740F9B483E935E3CbC29F01.png"
+    },
     {
       "name": "PancakeSwap Token",
       "symbol": "CAKE",
