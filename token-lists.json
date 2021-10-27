@@ -1,20 +1,10 @@
 {
-  "https://tokens.robustswap.com/pancakeswap-default.json": {
-    "name": "PancakeSwap Default",
-    "homepage": "https://pancakeswap.finance"
+  "https://tokens.robustswap.com/robustswap-default.json": {
+    "name": "RobustSwap Default",
+    "homepage": "https://robustswap.com"
   },
-  "https://tokens.robustswap.com/pancakeswap-extended.json": {
-    "name": "PancakeSwap Extended",
-    "homepage": "https://pancakeswap.finance"
-    
-  },
-  "https://tokens.robustswap.com/pancakeswap-top-100.json": {
-    "name": "PancakeSwap Top 100",
-    "homepage": "https://pancakeswap.finance"
-    
-  },
-  "https://tokens.coingecko.com/binance-smart-chain/all.json": {
-    "name": "CoinGecko",
-    "homepage": "https://www.coingecko.com"
+  "https://tokens.robustswap.com/robustswap-extended.json": {
+    "name": "RobustSwap Extended",
+    "homepage": "https://robustswap.com"
   }
 }
