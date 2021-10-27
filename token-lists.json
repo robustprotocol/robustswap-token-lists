@@ -1,0 +1,10 @@
+{
+  "https://tokens.robustswap.com/robustswap-default.json": {
+    "name": "RobustSwap Default",
+    "homepage": "https://robustswap.com"
+  },
+  "https://tokens.robustswap.com/robustswap-extended.json": {
+    "name": "RobustSwap Extended",
+    "homepage": "https://robustswap.com"
+  }
+}
